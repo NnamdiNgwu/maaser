@@ -1,0 +1,11 @@
+pydantic==2.10.0
+pyzmq==26.2.0
+requests==2.31.0
+openai==1.45.0
+langchain==0.3.7
+crawl4ai==0.3.731
+beautifulsoup4==4.12.3
+faiss-cpu==1.9.0
+selenium==4.21.0
+#owasp-zap-v2.4
+zaproxy==0.3.2
